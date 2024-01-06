@@ -1,6 +1,6 @@
 ## CALCULATOR
 
-## Technolgies used:
+## Technologies used:
 HTML:is used to structure the web page and its content.
 CSS:is used to style and layout the webpage.
 JavScript:is used to make webpages interactive.
